@@ -1,0 +1,19 @@
+{
+"@context": "http://schema.org/docs/jsonldcontext.json",
+"name":[{"@language":"en-US",
+         "@value":"Angel Island Poems read in Toishanese: Poem No 4 p 189"},
+         {"@language":"zh-CN",
+         "@value":"台山话朗读天使岛诗集 No.4 p189:妻囑 情"}],
+"@type":"VideoObject",
+"transcript":[{"@language":"en-US",
+                "@value":"My Wife's Admonishment We are poor, so you're leaving home to seek wealth; Keep hold of propriety while on this journey. Never pick wildflowers along the road,* For you have your own wife at home! Before you depart, I admonish you a thousand times; Don't let my words just whistle past your ears. Don't worry about us, be diligent and frugal, And two years hence return to sweep the ancestors' tombs. Your wife and children haven't a thing to wear; Not half a cup of rice can be scooped from the pot. Our house and rooms are dilapidated; Our housewares are worn, and the curtains torn. In the past, you did nothing but gamble; You never thought of me and my flowing tears. You are fortunate your elder brother has paid the taxes- Always remember your great debt to him!"},
+              {"@language":"zh-CN",
+               "@value":"妻囑情出門求財為家窮，把正心頭在路中。路上野花君莫取，為家自有係妻奴。臨行知囑情千萬，莫作奴言耳過風。家中妻兒係莫掛，勤儉二年掃祖宗。妻兒衣裳無一件，米盒掃來無半筒。家中屋舍無間好，夫係昔日都尋賭，不念奴奴淚飄飄。多得親兄來打稅，莫學忘叔大恩公爛溶爛揸穿爛帘。"}],
+"@id":"https://www.youtube.com/watch?v=8vDIsHXd5OM&index=3&list=PLlxkhghRXNSzbJ0ikhsuQp5Z6MBNX0Swd&t=2s",
+"producer":[{"name":"Joanne Poon ","@id":"http://viaf.org/viaf/306378761"}],
+"actor":[{"@id":"https://www.tumblr.com/search/yui%20poon%20ng",
+        "name":"Yui Poon Ng"}],
+"description":["The largest percentage of the Chinese immigrants who came to America in the first part of the twentieth century were from an area of Guangdong Province called the Toishan District, one of four counties then known as Sze Yup (four counties which also included Sunwui, Hoiping and Yanping). Yui Poon Ng (伍銳泮) of the Ing Suey Sun Tong Association of Vancouver (溫哥華伍胥山公所), produced by Joanne Poon (潘美珠), read a number of Angel Island poems and donated the videos to our website. We greatly appreciate the contributions of Mr. Ng and Ms. Poon, and of Him Mark Lai, Genny Lim, and Judy Yung for their book Island: Poetry and History of Chinese Immigrants on Angel Island, 1910-1940, 2nd edition (Seattle: University of Washington Press, 2014), where the poems are published."]
+
+
+ }
