@@ -1,0 +1,46 @@
+{
+  "@context": "http://schema.org/docs/jsonldcontext.json",
+
+"@id":"https://www.wikidata.org/entity/Q1073716",
+"@type":"schema:Legislation",
+"name":[{"@language":"zh-CN",
+          "@value":"1882年排华法案"},
+          {"@language":"en-US",
+          "@value":"Chinese Exclusion Act of 1882"}
+],
+"alternateName":"An act to execute certain treaty stipulations relating to Chinese",
+"legislationDate": "1882-05-06",
+"legislationPassedBy": {"@id":"http://viaf.org/viaf/35249995",
+                        "name":"Arthur, Chester Alan"},
+"contentLocation": {"name":"United States. National Archives and Records Administration",
+                     "@id":"http://id.loc.gov/authorities/names/n84176101"},
+"image":{"@id":"_:n1",
+        "contentUrl":"https://www.ourdocuments.gov/doc_large_image.php?flash=true&doc=47",
+        "@type":"schema:ImageObject",
+         "name":"Chinese Exclusion Act of 1882",
+         "encodesCreativeWork": [{"@id": "https://www.wikidata.org/entity/Q1073716"},
+                                 {"name":"Chinese Exclusion Act of 1882"}],
+         "encodingFormat": {"@id":"https://tools.ietf.org/html/rfc2045",
+                            "name":"image/jpeg"},
+         "hasPart":[{"@id":"_:n3",
+                   "contentUrl": "https://www.ourdocuments.gov/document_data/document_images/doc_047_big.jpg",
+                   "name":"First Document Image"},
+                    {"@id":"_:n4",
+                     "contentUrl": "https://www.ourdocuments.gov/document_data/document_images/doc_047b_big.jpg",
+                     "name":"Second Document Image"}
+                    ]
+                    },
+"schema:encoding": {"@id":"_:n2",
+                    "contentUrl": "https://www.loc.gov/law/help/statutes-at-large/47th-congress/session-1/c47s1ch126.pdf",
+                    "@type": "LegislationObject",
+                    "name": "Chinese Exclusion Act of 1882",
+                    "encodesCreativeWork": "https://www.wikidata.org/entity/Q1073716",
+                    "encodingFormat": {"@id":"https://tools.ietf.org/html/rfc8118",
+                                       "name":"application/pdf"}
+                     }
+                   
+
+                    
+                    
+
+ }
