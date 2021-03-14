@@ -1,0 +1,19 @@
+{
+"@context": "http://schema.org/docs/jsonldcontext.json",
+"name":[{"@language":"en-US",
+         "@value":"Identification photograph on affidavit “In the Matter of Wong Kim Ark, Native Born Citizen of the United States.”"}],
+         
+"@type":"Photograph",
+
+"about":[{"@id":"http://id.loc.gov/authorities/names/n2020050821",
+          "name":"Chinese Exclusion Act of 1882"},
+          {"@id":"http://id.loc.gov/authorities/names/n2020050839",
+          "name": "Ark, Wong Kim"}],
+          
+"@id":"National Archive: 296479",
+
+"image":[{"contentUrl":"https://i0.wp.com/prologue.blogs.archives.gov/wp-content/uploads/2013/09/wong-kim-ark.gif?ssl=1"}],
+
+"description":["In 1894, coming home from a brief visit to China, 21-year-old, California-born Wong Kim Ark was denied entry into the United States under the Chinese Exclusion Act of 1882. He took his case all the way to the Supreme Court. Their landmark ruling in Wong’s favor, asserted the Constitutional right of anyone born in the United States to be a citizen of this country. This is the identification photograph on affidavit “In the Matter of Wong Kim Ark, Native Born Citizen of the United States”. The identifier of the photo in National Archive is 296479."] 
+
+ }
