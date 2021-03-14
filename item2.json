@@ -1,0 +1,26 @@
+{
+"@context": "http://schema.org/docs/jsonldcontext.json",
+"@id":"https://example.org/Articles/1902/Minister_Wu_Will_Oppose_The_Chinese_Exclusion_Act",
+"@type":"schema: newsArticle",
+"headline":"Chinese Minister Wu Will Oppose the Chinese Exclusion Act",
+"locationCreated":{"@id":"http://id.loc.gov/authorities/names/n79027224",
+                   "name":"Washington (State)"},
+"printColumn":"10",
+"printPage":"3",
+"datePublished":"1902-01-23",
+"articleBody":"“Washington. Jan. 14—Wu Ting Fang, the Chinese Minister, and Lee Foy, “Mayor” of Chinatown in Philadelphia, will appear before the Senate Committee on immigration next Tuesday to oppose the re-enactment of the Chinese exclusion act, which expires by limitation next spring. A mysterious anonymous pamphlet is being circulated among Congressmen and attracting some attention. It contains in eighty-one pages substantially all the arguments the Chinese Ministers have advanced from time to time in opposition to the erestriction of Chinese immigrants. Minister Wu denies, however, that he is the author or in anyway connected with the publication.",
+"about":{"@id":"https://www.wikidata.org/entity/Q1073716",
+        "name":"Chinese Exclusion Act of 1882"},
+"isPartOf":{"@id":"_:n1",
+            "name":"Evening bulletin. [volume], January 23, 1902, Page 3",
+            "@type":"schema:Newspaper",
+            "image":{"@id":"_:n2",
+                     "contentUrl":"https://chroniclingamerica.loc.gov/lccn/sn82016413/1902-01-23/ed-1/seq-3/",
+                     "@type":"ImageObject",
+                     "encodingFormat":{"@id":"https://tools.ietf.org/html/rfc2045",
+                                        "name":"image/jpeg"},
+                     "encodesCreativeWork":{"@id":"_:n1",
+                                            "name":"Evening bulletin. [volume], January 23, 1902, Page 3"}
+                    }
+                    }
+ }
